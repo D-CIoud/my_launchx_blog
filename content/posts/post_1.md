@@ -1,6 +1,6 @@
 ---
 title: "Experiencia Launch X"
-date: 2022-03-01
+date: 2022-04-06
 description: 'Durante Launch X he aprendido lo siguiente'
 ---
 
