@@ -8,12 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
+      <title>La Cultura de un Desarroll@dor</title>
       <link>https://example.com/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
       <guid>https://example.com/posts/intro/</guid>
-      <description>Lo que más valoro de un desarrollador de software es: -Su paciencia, ya que es algo que considero esencial ya que muchas veces pueden presentarse errores inesperados o verse muy presionados por tiempos de entrega y probelmas que se puedan presentar. -Su lógica, el tener una lógica bien desarrollada siento que es algo fundamental ya que esto ayudara al desarrollador a ser más agil a la hora de pensar en soluciones.</description>
+      <description>Lo que más valoro de un desarrollador de software es:
+-Paciencia -Lógica -Autodidacta -Trabajo en equipo</description>
     </item>
     
   </channel>
